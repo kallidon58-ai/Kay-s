@@ -1,0 +1,6 @@
+{
+  "name": "AppForge - App Idea Incubator & Blueprint Studio",
+  "description": "Explore, generate, validate, and architect high-impact web and mobile app ideas with complete MVP scopes, tech stacks, and monetization roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
